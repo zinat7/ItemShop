@@ -1,12 +1,12 @@
-CID_061_Athena_Commando_F_SkiGirl, 1500
-CID_067_Athena_Commando_F_SkiGirl_CHN, 1500
-CID_065_Athena_Commando_F_SkiGirl_FRA, 1500
+CID_240_Athena_Commando_F_Plague, 1500
+CID_241_Athena_Commando_M_Plague, 1500
+EID_Tidy, 500
 na
 na
 na
-CID_197_Athena_Commando_F_Biker, 1200
-Pickaxe_ID_014_WinterCamo, 500
-Glider_ID_095_Witch, 800
-CID_414_Athena_Commando_F_MilitaryFashion, 800
-Pickaxe_ID_140_StreetGoth, 800
-EID_Ringer_Beyond, 1000
+CID_593_Athena_Commando_F_SoccerZombieA, 1200
+Wrap_139_Prismatic, 500
+Glider_Prismatic, 800
+CID_497_Athena_Commando_F_WildWest, 1200
+Pickaxe_ID_074_SharpDresser, 800
+EID_Darling, 500
