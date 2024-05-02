@@ -1,39 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_027_Athena_Commando_F"],
+    "itemGrants": ["AthenaCharacter:CID_748_Athena_Commando_F_Hitman"],
     "price": 1200
   },
   "daily2": {
-    "itemGrants": ["AthenaPickaxe:HalloweenScythe"],
-    "price": 800
+    "itemGrants": ["AthenaGlider:Glider_ID_109_StreetGoth"],
+    "price": 500
   },
   "daily3": {
-    "itemGrants": ["AthenaItemWrap:Wrap_018_Magma"],
-    "price": 600
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_140_StreetGoth"],
+    "price": 800
   },
   "daily4": {
-    "itemGrants": ["AthenaCharacter:CID_546_Athena_Commando_F_TacticalRed"],
-    "price": 800
+    "itemGrants": ["AthenaDance:EID_Reign_Beyond"],
+    "price": 1200
   },
   "daily5": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_138_Gnome"],
-    "price": 800
+    "itemGrants": ["AthenaCharacter:CID_271_Athena_Commando_F_SushiChef"],
+    "price": 1200
   },
   "daily6": {
-    "itemGrants": ["AthenaDance:EID_Camouflage_Beyond"],
-    "price": 1000
+    "itemGrants": ["AthenaDance:EID_RockGuitar"],
+    "price": 1200
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_362_Athena_Commando_F_BandageNinja","AthenaBackpack:BID_226_BandageNinjaFemale"],
+    "itemGrants": ["AthenaCharacter:CID_309_Athena_Commando_M_StreetGoth"],
     "price": 1500
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_361_Athena_Commando_M_BandageNinja","AthenaBackpack:BID_225_BandageNinjaMale"],
+    "itemGrants": ["AthenaCharacter:CID_310_Athena_Commando_F_StreetGoth"],
     "price": 1500
   },
-   "featured3": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_172_BandageNinja"],
-    "price": 500
-   }
+  "featured3": {
+    "itemGrants": ["AthenaCharacter:CID_393_Athena_Commando_M_Shiny"],
+    "price": 1500
+  }
 }
