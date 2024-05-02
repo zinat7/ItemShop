@@ -13,7 +13,7 @@
     "price": 800
   },
   "daily4": {
-    "itemGrants": ["AthenaCharacter:CID_593_Athena_Commando_F_SoccerZombieA","AthenaBackpack:BID_391_SoccerZombieFemale"].
+    "itemGrants": ["AthenaCharacter:CID_593_Athena_Commando_F_SoccerZombieA","AthenaBackpack:BID_391_SoccerZombieFemale"],
     "price": 1200
   },
   "daily5": {
