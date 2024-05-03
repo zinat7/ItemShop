@@ -1,6 +1,6 @@
-CID_703_Athena_Commando_M_Cyclone, 2000
-CID_761_Athena_Commando_M_CycloneSpace, 2000
-Pickaxe_ID_359_CycloneMale, 800
+CID_703_Athena_Commando_M_Cyclone, 0
+CID_761_Athena_Commando_M_CycloneSpace, 0
+Pickaxe_ID_359_CycloneMale, 0
 na
 na
 na
@@ -9,4 +9,4 @@ Pickaxe_ID_179_StarWand, 800
 Wrap_128_FragmentedGlowEclipse, 400
 CID_715_Athena_Commando_F_TwinDark, 1200
 Pickaxe_ID_142_TeriyakiFish, 500
-EID_Griddles, 1000
+EID_Griddles_Beyond, 0
