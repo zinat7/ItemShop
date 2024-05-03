@@ -22,18 +22,18 @@
   },
   "daily6": {
     "itemGrants": ["AthenaDance:EID_Griddle_Beyond"],
-    "price": 1000
+    "price": 0
   },
   "featured1": {
     "itemGrants": ["AthenaCharacter:CID_703_Athena_Commando_M_Cyclone","AthenaBackpack:BID_468_Cyclone"],
-    "price": 2000
+    "price": 0
   },
   "featured2": {
     "itemGrants": ["AthenaCharacter:CID_761_Athena_Commando_M_CycloneSpace","AthenaBackpack:BID_520_CycloneUniverse"],
-    "price": 2000
+    "price": 0
   },
    "featured3": {
     "itemGrants": ["AthenaPickaxe:Pickaxe_ID_359_CycloneMale"],
-    "price": 800
+    "price": 0
    }
 }
