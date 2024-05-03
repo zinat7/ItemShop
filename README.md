@@ -1,6 +1,6 @@
-CID_362_Athena_Commando_F_BandageNinja, 1500
-CID_361_Athena_Commando_M_BandageNinja, 1500
-Pickaxe_ID_172_BandageNinja, 500
+MusicPack_FMD, 500
+MusicPack_JennifersBody, 500
+HappyPickaxe, 200
 na
 na
 na
