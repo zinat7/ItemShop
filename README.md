@@ -9,4 +9,4 @@ Pickaxe_ID_179_StarWand, 800
 Wrap_128_FragmentedGlowEclipse, 400
 CID_715_Athena_Commando_F_TwinDark, 1200
 Pickaxe_ID_142_TeriyakiFish, 500
-EID_Griddles_Beyond, 0
+EID_Griddle_Beyond, 0
