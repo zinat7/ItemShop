@@ -1,12 +1,12 @@
-MusicPack_FMD, 500
-MusicPack_JennifersBody, 500
-HappyPickaxe, 200
+CID_703_Athena_Commando_M_Cyclone, 2000
+CID_761_Athena_Commando_M_CycloneSpace, 2000
+Pickaxe_ID_359_CycloneMale, 800
 na
 na
 na
-CID_027_Athena_Commando_F, 1200
-HalloweenScythe, 800
-Wrap_018_Magma, 600
-CID_546_Athena_Commando_F_TacticalRed, 800
-Pickaxe_ID_138_Gnome, 800
-EID_Camouflage, 1000
+CID_620_Athena_Commando_L_BigChuggus, 0
+Pickaxe_ID_179_StarWand, 800
+Wrap_128_FragmentedGlowEclipse, 400
+CID_715_Athena_Commando_F_TwinDark, 1200
+Pickaxe_ID_142_TeriyakiFish, 500
+EID_Griddles, 1000
