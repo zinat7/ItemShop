@@ -25,15 +25,15 @@
     "price": 1000
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_362_Athena_Commando_F_BandageNinja","AthenaBackpack:BID_226_BandageNinjaFemale"],
-    "price": 1500
+    "itemGrants": ["AthenaMusicPack:MusicPack_FMD"],
+    "price": 500
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_361_Athena_Commando_M_BandageNinja","AthenaBackpack:BID_225_BandageNinjaMale"],
-    "price": 1500
+    "itemGrants": ["AthenaMusicPack:MusicPack_JennifersBody"],
+    "price": 500
   },
    "featured3": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_172_BandageNinja"],
-    "price": 500
+    "itemGrants": ["AthenaPickaxe:HappyPickaxe"],
+    "price": 200
    }
 }
