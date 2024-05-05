@@ -1,12 +1,12 @@
-CID_309_Athena_Commando_M_StreetGoth, 1500
-CID_310_Athena_Commando_F_StreetGoth, 1500
-CID_393_Athena_Commando_M_Shiny, 1200
+CID_639_Athena_Commando_F_NeonAnimal, 1500
+CID_523_Athena_Commando_F_Cupid, 1500
+EID_AfroHouse, 500
 na
 na
 na
-CID_748_Athena_Commando_F_Hitman, 1500
-Pickaxe_ID_140_StreetGoth, 800
-Glider_ID_109_StreetGoth, 500
-CID_271_Athena_Commando_F_SushiChef, 1200
-EID_Reign_Beyond, 2000
-EID_RockGuitar, 800
+Glider_ID_071_Football, 500
+Glider_ID_052_Bedazzled, 500
+EID_WIR, 500
+Pickaxe_ID_267_RaptorBlackOps, 800
+Pickaxe_ID_136_Math, 800
+CID_685_Athena_Commando_M_TundraYellow, 1200
