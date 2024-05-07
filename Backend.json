@@ -1,39 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_522_Athena_Commando_M_Bullseye"],
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_030_ArtDeco"],
     "price": 1200
   },
   "daily2": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_182_PirateWheel"],
-    "price": 800
-  },
-  "daily3": {
-    "itemGrants": ["AthenaDance:EID_LookAtThis"],
-    "price": 500
-  },
-  "daily4": {
-    "itemGrants": ["AthenaGlider:Glider_ID_071_Football"],
-    "price": 500
-  },
-  "daily5": {
-    "itemGrants": ["AthenaItemWrap:Wrap_154_Haunt"],
+    "itemGrants": ["AthenaItemWrap:Wrap_195_StreetRat"],
     "price": 300
   },
-  "daily6": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_383_HandymanMale"],
+  "daily3": {
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_397_TechExplorerMale1H"],
     "price": 800
   },
-  "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_150_Athena_Commando_F_SoccerGirlC"],
-    "price": 1500
+  "daily4": {
+    "itemGrants": ["AthenaGlider:Glider_ID_041_Basketball"],
+    "price": 800
   },
-  "featured2": {
-    "itemGrants": ["AthenaDance:EID_Basketball"],
+  "daily5": {
+    "itemGrants": ["AthenaCharacter:CID_667_Athena_Commando_M_ArcticCamo_Dark"],
+    "price": 1200
+  },
+  "daily6": {
+    "itemGrants": ["AthenaDance:EID_Bendy"],
     "price": 500
   },
+  "featured1": {
+    "itemGrants": ["AthenaCharacter:CID_135_Athena_Commando_F_Jailbird"],
+    "price": 1200
+  },
+  "featured2": {
+    "itemGrants": ["AthenaDance:EID_WackyWavy"],
+    "price": 300
+  },
   "featured3": {
-    "itemGrants": ["AthenaCharacter:CID_338_Athena_Commando_M_DumplingMan"],
-    "price": 1500
+    "itemGrants": ["AthenaCharacter:CID_050_Athena_Commando_M_HolidayNutcracker"],
+    "price": 2000
   }
 }
