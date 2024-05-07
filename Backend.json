@@ -1,39 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_685_Athena_Commando_M_TundraYellow"],
+    "itemGrants": ["AthenaCharacter:CID_522_Athena_Commando_M_Bullseye"],
     "price": 1200
   },
   "daily2": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_136_Math"],
-    "price": 500
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_182_PirateWheel"],
+    "price": 800
   },
   "daily3": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_267_RaptorBlackOps"],
-    "price": 800
+    "itemGrants": ["AthenaDance:EID_LookAtThis"],
+    "price": 500
   },
   "daily4": {
     "itemGrants": ["AthenaGlider:Glider_ID_071_Football"],
     "price": 500
   },
   "daily5": {
-    "itemGrants": ["AthenaGlider:Glider_ID_052_Bedazzled"],
-    "price": 500
+    "itemGrants": ["AthenaItemWrap:Wrap_154_Haunt"],
+    "price": 300
   },
   "daily6": {
-    "itemGrants": ["AthenaDance:EID_WIR"],
-    "price": 500
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_383_HandymanMale"],
+    "price": 800
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_639_Athena_Commando_F_NeonAnimal"],
+    "itemGrants": ["AthenaCharacter:CID_150_Athena_Commando_F_SoccerGirlC"],
     "price": 1500
   },
   "featured2": {
-    "itemGrants": ["AthenaDance:EID_AfroHouse"],
+    "itemGrants": ["AthenaDance:EID_Basketball"],
     "price": 500
   },
   "featured3": {
-    "itemGrants": ["AthenaCharacter:CID_523_Athena_Commando_F_Cupid"],
+    "itemGrants": ["AthenaCharacter:CID_338_Athena_Commando_M_DumplingMan"],
     "price": 1500
   }
 }
