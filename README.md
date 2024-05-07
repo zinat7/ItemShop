@@ -5,7 +5,7 @@ na
 na
 na
 Wrap_154_Haunt, 500
-AthenaGlider:Glider_ID_005_HolidaySweater, 800
+Glider_ID_005_HolidaySweater, 800
 EID_LookAtThis, 500
 Pickaxe_ID_267_RaptorBlackOps, 800
 Pickaxe_ID_182_PirateWheel, 800
