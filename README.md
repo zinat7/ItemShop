@@ -1,12 +1,12 @@
-CID_315_Athena_Commando_M_TeriyakiFish, 1500
-CID_597_Athena_Commando_M_Freak, 1500
-EID_SwimDance, 500
+CID_194_Athena_Commando_F_RavenQuill, 2000
+CID_102_Athena_Commando_M_Raven, 2000
+EID_HipHop01, 1200
 na
 na
 na
-Wrap_024_StealthBlack, 300
-EID_IDontKnow, 300
-Pickaxe_ID_220_ForkKnife1H, 800
-Glider_ID_055_StreetRacerBlack, 500
-Pickaxe_ID_193_HotDog, 800
-CID_614_Athena_Commando_M_MissingLink, 1500
+MusicPack_047_FreestylinClubRemix, 500
+EID_Bendy, 800
+Pickaxe_ID_089_RavenQuill, 800
+Glider_ID_024_Reaper, 800
+Pickaxe_ID_134_Snowman, 800
+CID_663_Athena_Commando_F_Frogman, 1200
