@@ -1,12 +1,12 @@
-CID_315_Athena_Commando_M_TeriyakiFish, 1500
-CID_597_Athena_Commando_M_Freak, 1500
-EID_SwimDance, 500
+CID_703_Athena_Commando_M_Cyclone, 0
+AthenaCharacter:CID_530_Athena_Commando_F_BlackMonday_1BV6J, 2000
+EID_IndigoApple, 1200
 na
 na
 na
-Wrap_024_StealthBlack, 300
-EID_IDontKnow, 300
-Pickaxe_ID_220_ForkKnife1H, 800
-Glider_ID_055_StreetRacerBlack, 500
-Pickaxe_ID_193_HotDog, 800
-CID_614_Athena_Commando_M_MissingLink, 1500
+Glider_ID_029_PajamaParty, 800
+Wrap_230_Glacier, 300
+Pickaxe_ID_169_Farmer, 0
+EID_BillyBounce, 800
+Pickaxe_ID_215_Pug, 800
+CID_616_Athena_Commando_F_CavalryBandit, 1200
