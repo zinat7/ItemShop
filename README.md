@@ -1,5 +1,5 @@
 CID_703_Athena_Commando_M_Cyclone, 0
-AthenaCharacter:CID_530_Athena_Commando_F_BlackMonday_1BV6J, 2000
+CID_530_Athena_Commando_F_BlackMonday_1BV6J, 2000
 EID_IndigoApple, 1200
 na
 na
