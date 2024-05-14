@@ -35,5 +35,37 @@
   "featured3": {
     "itemGrants": ["AthenaCharacter:CID_102_Athena_Commando_M_Raven"],
     "price": 2000
+  },
+  "daily2": {
+    "itemGrants": ["AthenaItemWrap:Wrap_230_Glacier"],
+    "price": 300
+  },
+  "daily3": {
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_169_Farmer"],
+    "price": 0
+  },
+  "daily4": {
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_215_Pug"],
+    "price": 800
+  },
+  "daily5": {
+    "itemGrants": ["AthenaDance:EID_BillyBounce"],
+    "price": 800
+  },
+  "daily6": {
+    "itemGrants": ["AthenaCharacter:CID_616_Athena_Commando_F_CavalryBandit"],
+    "price": 1200
+  },
+  "featured1": {
+    "itemGrants": ["AthenaCharacter:CID_703_Athena_Commando_M_Cyclone"],
+    "price": 0
+  },
+  "featured2": {
+    "itemGrants": ["AthenaDance:EID_IndigoApple"],
+    "price": 1200
+  },
+  "featured3": {
+    "itemGrants": ["AthenaCharacter:CID_530_Athena_Commando_F_BlackMonday_1BV6J"],
+    "price": 2000
   }
 }
