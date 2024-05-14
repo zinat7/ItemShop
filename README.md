@@ -1,12 +1,12 @@
-CID_703_Athena_Commando_M_Cyclone, 0
-CID_530_Athena_Commando_F_BlackMonday_1BV6J, 2000
-EID_IndigoApple, 1200
+CID_194_Athena_Commando_F_RavenQuill, 2000
+CID_102_Athena_Commando_M_Raven, 2000
+EID_HipHop01, 1200
 na
 na
 na
-Glider_ID_029_PajamaParty, 800
-Wrap_230_Glacier, 300
-Pickaxe_ID_169_Farmer, 0
-EID_BillyBounce, 800
-Pickaxe_ID_215_Pug, 800
-CID_616_Athena_Commando_F_CavalryBandit, 1200
+MusicPack_047_FreestylinClubRemix, 500
+EID_Bendy, 800
+Pickaxe_ID_089_RavenQuill, 800
+Glider_ID_024_Reaper, 800
+Pickaxe_ID_134_Snowman, 800
+CID_663_Athena_Commando_F_Frogman, 1200
