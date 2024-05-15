@@ -33,7 +33,7 @@
     "price": 800
   },
   "featured3": {
-    "itemGrants": ["AthenaCharacterCID_574_Athena_Commando_F_CubeRockerPunk"],
+    "itemGrants": ["AthenaCharacter:CID_574_Athena_Commando_F_CubeRockerPunk"],
     "price": 2000
   }
 }
