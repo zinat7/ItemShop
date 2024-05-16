@@ -1,39 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaGlider:Glider_ID_083_DarkBomber"],
-    "price": 500
+    "itemGrants": ["AthenaGlider:Glider_ID_140_ShatterFly"],
+    "price": 800
   },
   "daily2": {
-    "itemGrants": ["AthenaMusicPack:MusicPack_032_GrooveJam"],
+    "itemGrants": ["AthenaMusicPack:MusicPack_015_GoodVibes"],
     "price": 500
   },
   "daily3": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_306_PunkDevil"],
-    "price": 800
+    "itemGrants": ["AthenaGlider:Umbrella_AssassinSuit"],
+    "price": 200
   },
   "daily4": {
-    "itemGrants": ["AthenaGlider:Umbrella_Storm"],
+    "itemGrants": ["AthenaBackPack:BID_341_AngelEclipse"],
     "price": 200
   },
   "daily5": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_263_JonesyCube"],
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_221_SkullBriteEclipse"],
     "price": 800
   },
   "daily6": {
-    "itemGrants": ["AthenaCharacter:CID_586_Athena_Commando_F_PunkDevil"],
+    "itemGrants": ["AthenaCharacter:CID_395_Athena_Commando_F_ShatterFly"],
     "price": 1200
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_229_Athena_Commando_F_DarkBomber"],
+    "itemGrants": ["AthenaCharacter:CID_439_Athena_Commando_F_SkullBriteEclipse"],
     "price": 1500
   },
   "featured2": {
-    "itemGrants": ["AthenaDance:EID_Wizard"],
-    "price": 800
+    "itemGrants": ["AthenaCharacter:CID_437_Athena_Commando_F_AztecEclipse"],
+    "price": 1500
   },
   "featured3": {
-    "itemGrants": ["AthenaCharacter:CID_574_Athena_Commando_F_CubeRockerPunk"],
+    "itemGrants": ["AthenaCharacter:CID_510_Athena_Commando_F_AngelEclipse"],
     "price": 2000
   }
 }
