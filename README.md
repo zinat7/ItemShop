@@ -1,12 +1,12 @@
-CID_229_Athena_Commando_F_DarkBomber, 1500
-CID_574_Athena_Commando_F_CubeRockerPunk, 2000
-EID_Wizard, 800
+CID_439_Athena_Commando_F_SkullBriteEclipse, 1500
+CID_510_Athena_Commando_F_AngelEclipse, 2000
+CID_437_Athena_Commando_F_AztecEclipse, 1500
 na
 na
 na
-MusicPack_032_GrooveJam, 500
-Pickaxe_ID_263_JonesyCube, 800
-Umbrella_Storm, 200
-Glider_ID_083_DarkBomber, 500
-Pickaxe_ID_306_PunkDevil, 800
-CID_586_Athena_Commando_F_PunkDevil, 1200
+MusicPack_015_GoodVibes, 500
+Pickaxe_ID_221_SkullBriteEclipse, 800
+BID_341_AngelEclipse, 200
+Glider_ID_140_ShatterFly, 800
+Umbrella_AssassinSuit, 200
+CID_395_Athena_Commando_F_ShatterFly, 1200
