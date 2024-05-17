@@ -1,12 +1,12 @@
-CID_439_Athena_Commando_F_SkullBriteEclipse, 1500
-CID_510_Athena_Commando_F_AngelEclipse, 2000
-CID_437_Athena_Commando_F_AztecEclipse, 1500
+CID_715_Athena_Commando_F_TwinDark, 1500
+CID_642_Athena_Commando_F_ConstellationStar, 1500
+Pickaxe_ID_363_LollipopTricksterFemale, 800
 na
 na
 na
-MusicPack_015_GoodVibes, 500
-Pickaxe_ID_221_SkullBriteEclipse, 800
-BID_341_AngelEclipse, 200
-Glider_ID_140_ShatterFly, 800
-Umbrella_AssassinSuit, 200
-CID_395_Athena_Commando_F_ShatterFly, 1200
+Glider_ID_176_BlackMondayCape_4P79K, 1200
+CID_704_Athena_Commando_F_LollipopTrickster, 1500
+Pickaxe_ID_015_HolidayCandyCane, 1500
+EID_WalkieWalk, 500
+Pickaxe_ID_074_SharpDresser, 800
+CID_515_Athena_Commando_M_BarbequeLarry, 2000
