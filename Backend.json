@@ -1,39 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaGlider:Glider_ID_140_ShatterFly"],
-    "price": 800
+    "itemGrants": ["AthenaGlider:Glider_ID_176_BlackMondayCape_4P79K"],
+    "price": 1200
   },
   "daily2": {
-    "itemGrants": ["AthenaMusicPack:MusicPack_015_GoodVibes"],
-    "price": 500
+    "itemGrants": ["AthenaCharacter:CID_704_Athena_Commando_F_LollipopTrickster"],
+    "price": 1500
   },
   "daily3": {
-    "itemGrants": ["AthenaGlider:Umbrella_AssassinSuit"],
-    "price": 200
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_015_HolidayCandyCane"],
+    "price": 1500
   },
   "daily4": {
-    "itemGrants": ["AthenaBackPack:BID_341_AngelEclipse"],
-    "price": 200
+    "itemGrants": ["AthenaDance:EID_WalkieWalk"],
+    "price": 500
   },
   "daily5": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_221_SkullBriteEclipse"],
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_074_SharpDresser"],
     "price": 800
   },
   "daily6": {
-    "itemGrants": ["AthenaCharacter:CID_395_Athena_Commando_F_ShatterFly"],
-    "price": 1200
+    "itemGrants": ["AthenaCharacter:CID_515_Athena_Commando_M_BarbequeLarry"],
+    "price": 2000
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_439_Athena_Commando_F_SkullBriteEclipse"],
+    "itemGrants": ["AthenaCharacter:CID_715_Athena_Commando_F_TwinDark"],
     "price": 1500
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_437_Athena_Commando_F_AztecEclipse"],
+    "itemGrants": ["AthenaCharacter:CID_642_Athena_Commando_F_ConstellationStar"],
     "price": 1500
   },
   "featured3": {
-    "itemGrants": ["AthenaCharacter:CID_510_Athena_Commando_F_AngelEclipse"],
-    "price": 2000
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_363_LollipopTricksterFemale"],
+    "price": 800
   }
 }
