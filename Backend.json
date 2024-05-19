@@ -35,5 +35,9 @@
   "featured3": {
     "itemGrants": ["AthenaCharacter:CID_379_Athena_Commando_M_BattleHoundFire"],
     "price": 1500
+  },
+  "featured4": {
+    "itemGrants": ["AthenaGlider:Glider_ID_196_CycloneMale"],
+    "price": 800
   }
 }
