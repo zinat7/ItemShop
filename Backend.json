@@ -13,12 +13,12 @@
     "price": 500
   },
   "daily4": {
-    "itemGrants": ["AthenaGlider:Glider_ID_206_Donut"],
-    "price": 800
+    "itemGrants": ["AthenaDance:EID_HipHop01"],
+    "price": 1200
   },
   "daily5": {
-    "itemGrants": ["AthenaCosmetic:CID_734_Athena_Commando_F_BannerRed"],
-    "price": 1200
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_144_Angel"],
+    "price": 800
   },
   "daily6": {
     "itemGrants": ["AthenaDance:EID_Saxophone"],
@@ -26,14 +26,14 @@
   },
   "featured1": {
     "itemGrants": ["AthenaCosmetic:CID_452_Athena_Commando_F_CyberFu"],
-    "price": 1200
+    "price": 1500
   },
   "featured2": {
     "itemGrants": ["AthenaCosmetic:CID_395_Athena_Commando_F_ShatterFly"],
     "price": 1500
   },
   "featured3": {
-    "itemGrants": ["AthenaGlider:Wrap_130_LemonLime"],
+    "itemGrants": ["AthenaWrap:Wrap_130_LemonLime"],
     "price": 200
   }
 }
