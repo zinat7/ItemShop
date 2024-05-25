@@ -1,7 +1,7 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCosmetic:CID_358_Athena_Commando_M_Aztec"],
+    "itemGrants": ["AthenaCharacter:CID_358_Athena_Commando_M_Aztec"],
     "price": 1200
   },
   "daily2": {
@@ -25,15 +25,15 @@
     "price": 500
   },
   "featured1": {
-    "itemGrants": ["AthenaCosmetic:CID_452_Athena_Commando_F_CyberFu"],
+    "itemGrants": ["AthenaCharacter:CID_452_Athena_Commando_F_CyberFu"],
     "price": 1500
   },
   "featured2": {
-    "itemGrants": ["AthenaCosmetic:CID_395_Athena_Commando_F_ShatterFly"],
+    "itemGrants": ["AthenaCharacter:CID_395_Athena_Commando_F_ShatterFly"],
     "price": 1500
   },
   "featured3": {
-    "itemGrants": ["AthenaWrap:Wrap_130_LemonLime"],
+    "itemGrants": ["AthenaItemWrap:Wrap_130_LemonLime"],
     "price": 200
   }
 }
