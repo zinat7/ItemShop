@@ -5,7 +5,7 @@ na
 na
 na
 EID_SquishyDance, 500
-Pickaxe_ID_179_StarWand, 800
+Pickaxe_ID_294_CandyCane, 800
 BID_270_StreetDemon, 500
 EID_ArtGiant, 500
 Glider_ID_209_DonutPlate, 1200
