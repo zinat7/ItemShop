@@ -1,12 +1,12 @@
-CID_452_Athena_Commando_F_CyberFu, 1500
-CID_395_Athena_Commando_F_ShatterFly, 1500
-Wrap_130_LemonLime, 200
+CID_258_Athena_Commando_F_FuzzyBearHalloween, 1500
+CID_249_Athena_Commando_F_BlackWidow, 2000
+CID_246_Athena_Commando_F_Grave, 1200
 na
 na
 na
-EID_Saxophone, 500
-Pickaxe_ID_144_Angel, 800
-EID_HipHop01, 1200
-EID_BillyBounce, 500
-Glider_ID_206_Donut, 500
-CID_358_Athena_Commando_M_Aztec, 1200
+EID_Zombie, 800
+Pickaxe_ID_111_BlackWidow, 800
+Pickaxe_ID_140_StreetGoth, 800
+Glider_ID_084_Plague, 800
+Umbrella_Season_06, 200
+CID_255_Athena_Commando_F_HalloweenBunny, 800
