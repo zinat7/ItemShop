@@ -21,16 +21,16 @@
     "price": 500
   },
   "daily6": {
-    "itemGrants": ["AthenaCharacter:CID_335_Athena_Commando_F_Scrapyard"],
-    "price": 1200
+    "itemGrants": ["AthenaGlider:Glider_ID_110_TeriyakiFish"],
+    "price": 800
   },
   "featured1": {
     "itemGrants": ["AthenaCharacter:CID_648_Athena_Commando_F_MsAlpine"],
     "price": 1200
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_391_Athena_Commando_M_HoppityHeist"],
-    "price": 1000
+    "itemGrants": ["AthenaCharacter:CID_335_Athena_Commando_F_Scrapyard"],
+    "price": 1200
   },
   "featured3": {
     "itemGrants": ["AthenaCharacter:CID_696_Athena_Commando_F_DarkHeart"],
