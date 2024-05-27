@@ -1,39 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaGlider:Glider_ID_084_Plague"],
-    "price": 800
+    "itemGrants": ["AthenaCharacter:CID_598_Athena_Commando_M_Mastermind"],
+    "price": 1500
   },
   "daily2": {
-    "itemGrants": ["AthenaDance:EID_Zombie"],
-    "price": 800
+    "itemGrants": ["AthenaItemWrap:Wrap_139_Prismatic"],
+    "price": 300
   },
   "daily3": {
-    "itemGrants": ["AthenaGlider:Umbrella_Season_06"],
-    "price": 200
+    "itemGrants": ["AthenaGlider:Glider_ID_104_FuzzyBear"],
+    "price": 1200
   },
   "daily4": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_140_StreetGoth"],
-    "price": 800
+    "itemGrants": ["AthenaDance:EID_Fresh"],
+    "price": 3500
   },
   "daily5": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_111_BlackWidow"],
-    "price": 800
+    "itemGrants": ["AthenaDance:EID_Floss"],
+    "price": 5000
   },
   "daily6": {
-    "itemGrants": ["AthenaCharacter:CID_255_Athena_Commando_F_HalloweenBunny"],
+    "itemGrants": ["AthenaMusicPack:MusicPack_039_Envy"],
     "price": 800
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_258_Athena_Commando_F_FuzzyBearHalloween"],
-    "price": 1500
+    "itemGrants": ["AthenaCharacter:CID_369_Athena_Commando_F_DevilRock"],
+    "price": 2000
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_246_Athena_Commando_F_Grave"],
-    "price": 1200
+    "itemGrants": ["AthenaCharacter:CID_370_Athena_Commando_M_EvilSuit"],
+    "price": 2000
   },
   "featured3": {
-    "itemGrants": ["AthenaCharacter:CID_249_Athena_Commando_F_BlackWidow"],
-    "price": 2000
+    "itemGrants": ["AthenaDance:EID_ArtGiant"],
+    "price": 1000
   }
 }
