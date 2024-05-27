@@ -33,7 +33,7 @@
     "price": 2000
   },
   "featured3": {
-    "itemGrants": ["AthenaDance:EID_ArtGiant"],
-    "price": 1000
+    "itemGrants": ["AthenaDance:EID_KingEagle"],
+    "price": 0
   }
 }
