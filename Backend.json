@@ -1,43 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaDance:EID_FireDance"],
+    "itemGrants": ["AthenaDance:EID_JellyFrog"],
     "price": 800
   },
   "daily2": {
-    "itemGrants": ["AthenaMusicPack:MusicPack_043_Overdrive"],
+    "itemGrants": ["AthenaDance:EID_Grooving"],
     "price": 500
   },
   "daily3": {
-    "itemGrants": ["AthenaGlider:Umbrella_Season_12"],
-    "price": 200
-  },
-  "daily4": {
-    "itemGrants": ["AthenaBackPack:BID_347_DarkEagleFire"],
-    "price": 300
-  },
-  "daily5": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_261_DarkEagleFire1H"],
-    "price": 800
-  },
-  "daily6": {
-    "itemGrants": ["AthenaCharacter:CID_703_Athena_Commando_M_Cyclone"],
-    "price": 0
-  },
-  "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_380_Athena_Commando_F_DarkViking_Fire"],
+    "itemGrants": ["AthenaGlider:Glider_ID_095_Witch"],
     "price": 1500
   },
+  "daily4": {
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_029_Assassin"],
+    "price": 2000
+  },
+  "daily5": {
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_197_HoppityHeist"],
+    "price": 500
+  },
+  "daily6": {
+    "itemGrants": ["AthenaCharacter:CID_335_Athena_Commando_F_Scrapyard"],
+    "price": 1200
+  },
+  "featured1": {
+    "itemGrants": ["AthenaCharacter:CID_648_Athena_Commando_F_MsAlpine"],
+    "price": 1200
+  },
   "featured2": {
-    "itemGrants": ["AthenaGlider:Glider_ID_134_DarkVikingFire"],
+    "itemGrants": ["AthenaCharacter:CID_391_Athena_Commando_M_HoppityHeist"],
     "price": 1000
   },
   "featured3": {
-    "itemGrants": ["AthenaCharacter:CID_379_Athena_Commando_M_BattleHoundFire"],
+    "itemGrants": ["AthenaCharacter:CID_696_Athena_Commando_F_DarkHeart"],
     "price": 1500
-  },
-  "featured4": {
-    "itemGrants": ["AthenaGlider:Glider_ID_196_CycloneMale"],
-    "price": 800
   }
 }
