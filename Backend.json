@@ -18,7 +18,7 @@
   },
   "daily5": {
     "itemGrants": ["AthenaPickaxe:Pickaxe_ID_294_CandyCane"],
-    "price": 800
+    "price": 2500
   },
   "daily6": {
     "itemGrants": ["AthenaDance:EID_SquishyDance"],
@@ -30,10 +30,10 @@
   },
   "featured2": {
     "itemGrants": ["AthenaCharacter:CID_648_Athena_Commando_F_MsAlpine"],
-    "price": 1200
+    "price": 1500
   },
   "featured3": {
     "itemGrants": ["AthenaPickaxe:Pickaxe_ID_143_FlintlockWinter"],
-    "price": 1200
+    "price": 1500
   }
 }

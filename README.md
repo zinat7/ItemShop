@@ -1,12 +1,12 @@
-CID_452_Athena_Commando_F_CyberFu, 1500
-CID_395_Athena_Commando_F_ShatterFly, 1500
-Wrap_130_LemonLime, 200
+EID_ArtGiant, 1000
+CID_369_Athena_Commando_F_DevilRock, 2000
+CID_370_Athena_Commando_M_EvilSuit, 2000
 na
 na
 na
-EID_Saxophone, 500
-Pickaxe_ID_144_Angel, 800
-EID_HipHop01, 1200
-EID_BillyBounce, 500
-Glider_ID_206_Donut, 500
-CID_358_Athena_Commando_M_Aztec, 1200
+MusicPack_039_Envy, 500
+Glider_ID_104_FuzzyBear, 1200
+EID_Fresh, 3500
+Wrap_139_Prismatic, 300
+EID_Floss, 5000
+CID_598_Athena_Commando_M_Mastermind, 1500
