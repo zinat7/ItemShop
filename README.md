@@ -5,8 +5,8 @@ na
 na
 na
 CID_647_Athena_Commando_F_WingedFury, 1200
-BID_270_StreetDemon, 600
-EID_PumpkinDance, 500
-CID_598_Athena_Commando_M_Mastermind, 1400
+BID_424_SnowGlobe, 700
+EID_PumpkinDance, 700
+CID_598_Athena_Commando_M_Mastermind, 1000
 Wrap_111_ZeroPointCeiling, 300
 EID_BillyBounce, 500
