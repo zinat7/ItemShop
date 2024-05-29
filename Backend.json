@@ -1,27 +1,27 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_647_Athena_Commando_F_WingedFury"],
-    "price": 1200
+    "itemGrants": ["AthenaCharacter:CID_617_Athena_Commando_F_ForestQueen"],
+    "price": 800
   },
   "daily2": {
     "itemGrants": ["AthenaBackpack:BID_424_SnowGlobe"],
     "price": 700
   },
   "daily3": {
-    "itemGrants": ["AthenaDance:EID_PumpkinDance"],
-    "price": 700
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_234_CyberKarate"],
+    "price": 900
   },
   "daily4": {
-    "itemGrants": ["AthenaCharacter:CID_598_Athena_Commando_M_Mastermind"],
-    "price": 1000
+    "itemGrants": ["AthenaCharacter:CID_608_Athena_Commando_F_ModernWitch"],
+    "price": 1200
   },
   "daily5": {
     "itemGrants": ["AthenaItemWrap:Wrap_111_ZeroPointCeiling"],
     "price": 300
   },
   "daily6": {
-    "itemGrants": ["AthenaDance:EID_BillyBounce"],
+    "itemGrants": ["AthenaDance:EID_GothDance"],
     "price": 500
   },
   "featured1": {
@@ -29,11 +29,11 @@
     "price": 300
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_748_Athena_Commando_F_Hitman"],
+    "itemGrants": ["AthenaCharacter:CID_720_Athena_Commando_F_StreetFashionEmerald"],
     "price": 1000
   },
   "featured3": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_363_LollipopTricksterFemale"],
-    "price": 700
+    "itemGrants": ["AthenaCharacter:CID_460_Athena_Commando_F_BriteBomberSummer"],
+    "price": 1000
   }
 }
