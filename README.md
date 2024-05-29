@@ -1,12 +1,12 @@
 Wrap_234_GlowVortex, 300
-CID_748_Athena_Commando_F_Hitman, 1000
-Pickaxe_ID_363_LollipopTricksterFemale, 700
+CID_720_Athena_Commando_F_StreetFashionEmerald, 1000
+CID_460_Athena_Commando_F_BriteBomberSummer, 1000
 na
 na
 na
-CID_647_Athena_Commando_F_WingedFury, 1200
+CID_617_Athena_Commando_F_ForestQueen, 800
 BID_424_SnowGlobe, 700
-EID_PumpkinDance, 700
-CID_598_Athena_Commando_M_Mastermind, 1000
+Pickaxe_ID_234_CyberKarate, 900
+CID_608_Athena_Commando_F_ModernWitch, 1200
 Wrap_111_ZeroPointCeiling, 300
-EID_BillyBounce, 500
+EID_GothDance, 500
