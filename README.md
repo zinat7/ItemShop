@@ -1,6 +1,6 @@
 CID_642_Athena_Commando_F_ConstellationStar, 1200
 Pickaxe_ID_363_LollipopTricksterFemale, 800
-Pickaxe_ID_179_StarWand, 800
+Pickaxe_ID_179_StarWand, 3500
 na
 na
 na
