@@ -17,7 +17,7 @@
     "price": 1200
   },
   "daily5": {
-    "itemGrants": ["AthenaBackpack:BID_492_BlueFlames"],
+    "itemGrants": ["AthenaBackPack:BID_492_BlueFlames"],
     "price": 500
   },
   "daily6": {
@@ -25,15 +25,15 @@
     "price": 1200
   },
   "featured1": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_160_IceCream"],
-    "price": 800
+    "itemGrants": ["AthenaCharacter:CID_048_Athena_Commando_F_HolidayGingerbread"],
+    "price": 1500
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_460_Athena_Commando_F_BriteBomberSummer"],
-    "price": 1200
+    "itemGrants": ["AthenaCharacter:CID_049_Athena_Commando_M_HolidayGingerbread"],
+    "price": 1500
   },
   "featured3": {
-    "itemGrants": ["AthenaPickaxe:CID_553_Athena_Commando_M_BrightGunnerRemix"],
-    "price": 1200
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_092_Bling"],
+    "price": 800
   }
 }
