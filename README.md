@@ -1,6 +1,6 @@
-CID_460_Athena_Commando_F_BriteBomberSummer, 1200
-CID_553_Athena_Commando_M_BrightGunnerRemix, 1200
-Pickaxe_ID_160_IceCream, 800
+CID_048_Athena_Commando_F_HolidayGingerbread, 1500
+CID_049_Athena_Commando_M_HolidayGingerbread, 1500
+Pickaxe_ID_092_Bling, 800
 na
 na
 na
