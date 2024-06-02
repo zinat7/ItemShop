@@ -13,12 +13,12 @@
     "price": 1200
   },
   "daily4": {
-    "itemGrants": ["AthenaCharacter:CID_463_Athena_Commando_M_Hairy"],
-    "price": 1200
+    "itemGrants": ["AthenaCharacter:CID_301_Athena_Commando_M_Rhino"],
+    "price": 1500
   },
   "daily5": {
-    "itemGrants": ["AthenaBackPack:BID_492_BlueFlames"],
-    "price": 500
+    "itemGrants": ["AthenaBackPack:BID_435_Constellation"],
+    "price": 800
   },
   "daily6": {
     "itemGrants": ["AthenaGlider:Glider_ID_058_Shark"],
@@ -26,14 +26,14 @@
   },
   "featured1": {
     "itemGrants": ["AthenaCharacter:CID_048_Athena_Commando_F_HolidayGingerbread"],
-    "price": 1500
+    "price": 2000
   },
   "featured2": {
     "itemGrants": ["AthenaCharacter:CID_049_Athena_Commando_M_HolidayGingerbread"],
-    "price": 1500
+    "price": 2000
   },
   "featured3": {
     "itemGrants": ["AthenaPickaxe:Pickaxe_ID_092_Bling"],
-    "price": 800
+    "price": 1200
   }
 }
