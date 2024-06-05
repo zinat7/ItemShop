@@ -1,39 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaDance:EID_JellyFrog"],
+    "itemGrants": ["AthenaDance:EID_CrackshotClock"],
     "price": 500
   },
   "daily2": {
-    "itemGrants": ["AthenaDance:EID_TakeTheW"],
-    "price": 500
+    "itemGrants": ["AthenaDance:EID_CycloneHeadBang"],
+    "price": 2800
   },
   "daily3": {
-    "itemGrants": ["AthenaGlider:Umbrella_PaperParasol"],
-    "price": 500
-  },
-  "daily4": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_122_Witch"],
+    "itemGrants": ["AthenaGlider:Glider_ID_110_TeriyakiFish"],
     "price": 800
   },
+  "daily4": {
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_085_Wukong"],
+    "price": 1500
+  },
   "daily5": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_044_TacticalUrbanHammer"],
-    "price": 500
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_169_Farme"],
+    "price": 800
   },
   "daily6": {
-    "itemGrants": ["AthenaCharacter:CID_214_Athena_Commando_F_FootballReferee"],
+    "itemGrants": ["AthenaCharacter:CID_493_Athena_Commando_F_JurassicArchaeology,"],
     "price": 800
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_753_Athena_Commando_F_Hostile"],
-    "price": 1200
+    "itemGrants": ["AthenaCharacter:CID_478_Athena_Commando_F_WorldCup"],
+    "price": 3500
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_696_Athena_Commando_F_DarkHeart"],
-    "price": 1500
+    "itemGrants": ["AthenaItemWrap:Wrap_102_Worldcup2019"],
+    "price": 800
   },
   "featured3": {
-    "itemGrants": ["AthenaGlider:Glider_ID_140_ShatterFly"],
+    "itemGrants": ["AthenaGlider:Glider_ID_196_CycloneMale"],
     "price": 1200
   }
 }
