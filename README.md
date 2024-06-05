@@ -1,12 +1,12 @@
-CID_478_Athena_Commando_F_WorldCup, 3500
-Wrap_102_WorldCup2019, 800
-Glider_ID_196_CycloneMale, 1200
+CID_593_Athena_Commando_F_SoccerZombieA, 1500
+BID_468_Cyclon, 1500
+CID_595_Athena_Commando_F_SoccerZombieC, 1500
 na
 na
 na
-CID_493_Athena_Commando_F_JurassicArchaeology, 800
-Pickaxe_ID_169_Farmer, 800
-Pickaxe_ID_085_Wukong, 1500
-Glider_ID_110_TeriyakiFish, 800
-EID_CycloneHeadBang,2800
-EID_CrackshotClock, 500
+Pickaxe_ID_140_StreetGot, 800
+Umbrella_Season_04, 300
+Wrap_158_DevilRock, 500
+Umbrella_AssassinSuit, 200
+EID_ArtGiant, 800
+EID_RaiseTheRoof, 200
