@@ -1,11 +1,11 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaPickaxe_Pickaxe_ID_140_Streetgot"],
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_140_Streetgot"],
     "price": 800
   },
   "daily2": {
-    "itemGrants": ["AthenaDance:EID_Artgiant"],
+    "itemGrants": ["AthenaDance:EID_CrabDance"],
     "price": 800
   },
   "daily3": {
@@ -17,11 +17,11 @@
     "price": 200
   },
   "daily5": {
-    "itemGrants": ["AthenaGlider:Glider_Season_04"],
-    "price": 300
+    "itemGrants": ["AthenaGlider:Glider_ID_139_EarthDay"],
+    "price": 500
   },
   "daily6": {
-    "itemGrants": ["AthenaWrap:Wrap_158_Devilrock,"],
+    "itemGrants": ["AthenaItemWrap:Wrap_158_Devilrock,"],
     "price": 500
   },
   "featured1": {
@@ -29,8 +29,8 @@
     "price": 1500
   },
   "featured2": {
-    "itemGrants": ["AthenaBackpack:BID_468_Cyclon"],
-    "price": 1500
+    "itemGrants": ["AthenaBackPack:BID_101_BlingFemale"],
+    "price": 500
   },
   "featured3": {
     "itemGrants": ["AthenaCharacter:CID_595_Athena_Commando_F_SoccerZombieC"],
