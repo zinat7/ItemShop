@@ -1,12 +1,11 @@
-CID_696_Athena_Commando_F_DarkHeart, 1500
-CID_753_Athena_Commando_F_Hostile, 1200
-Glider_ID_140_ShatterFly, 1200
+CID_478_Athena_Commando_F_WorldCup, 3500
+Wrap_102_WorldCup2019, 800
+Glider_ID_196_CycloneMale, 1200
 na
 na
-na
-CID_214_Athena_Commando_F_FootballReferee, 800
-Pickaxe_ID_044_TacticalUrbanHammer, 500
-Pickaxe_ID_122_Witch, 800
-Umbrella_PaperParasol, 500
-EID_TakeTheW, 500
-EID_JellyFrog, 500
+naCID_493_Athena_Commando_F_JurassicArchaeology, 800
+Pickaxe_ID_169_Farmer, 800
+Pickaxe_ID_085_Wukong, 1500
+Glider_ID_110_TeriyakiFish, 800
+EID_CycloneHeadBang,2800
+EID_CrackshotClock, 500
