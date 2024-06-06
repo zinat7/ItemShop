@@ -9,7 +9,7 @@
     "price": 800
   },
   "daily3": {
-    "itemGrants": ["AthenaGlider:Glider_Assassinsuit"],
+    "itemGrants": ["AthenaGlider:Umbrella_AssassinSuit"],
     "price": 200
   },
   "daily4": {
@@ -21,7 +21,7 @@
     "price": 500
   },
   "daily6": {
-    "itemGrants": ["AthenaItemWrap:Wrap_158_Devilrock,"],
+    "itemGrants": ["AthenaItemWrap:Wrap_158_Devilrock"],
     "price": 500
   },
   "featured1": {
