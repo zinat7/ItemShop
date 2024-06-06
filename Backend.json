@@ -1,39 +1,35 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_140_Streetgot"],
-    "price": 800
+    "itemGrants": ["AthenaCharacter:CID_497_Athena_Commando_F_WildWest"],
+    "price": 1200
   },
   "daily2": {
-    "itemGrants": ["AthenaDance:EID_CrabDance"],
-    "price": 800
+    "itemGrants": ["Wrap_127_FragmentedGlow"],
+    "price": 1200
   },
   "daily3": {
-    "itemGrants": ["AthenaGlider:Umbrella_AssassinSuit"],
-    "price": 200
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_235_Lasagna"],
+    "price": 800
   },
   "daily4": {
-    "itemGrants": ["AthenaDance:EID_RaiseTheRoof"],
-    "price": 200
+    "itemGrants": ["Pickaxe_ID_339_CODSquadHoodie"],
+    "price": 800
   },
   "daily5": {
-    "itemGrants": ["AthenaGlider:Glider_ID_139_EarthDay"],
-    "price": 500
-  },
-  "daily6": {
-    "itemGrants": ["AthenaItemWrap:Wrap_158_Devilrock"],
-    "price": 500
+    "itemGrants": ["AthenaCharacter:CID_431_Athena_Commando_F_StormPilot"],
+    "price": 800
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_593_Athena_Commando_F_SoccerZombieA"],
-    "price": 1500
+    "itemGrants": ["AthenaCharacter:CID_751_Athena_Commando_F_NeonCatSpy"],
+    "price": 1800
   },
   "featured2": {
-    "itemGrants": ["AthenaBackPack:BID_101_BlingFemale"],
-    "price": 500
+    "itemGrants": ["AthenaCharacter:CID_653_Athena_Commando_F_UglySweaterFrozen"],
+    "price": 2500
   },
   "featured3": {
-    "itemGrants": ["AthenaCharacter:CID_595_Athena_Commando_F_SoccerZombieC"],
-    "price": 1500
+    "itemGrants": ["AthenaCharacter:CID_039_Athena_Commando_F_Disco"],
+    "price": 6000
   }
 }
