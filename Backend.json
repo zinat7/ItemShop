@@ -25,7 +25,7 @@
     "price": 500
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_751_Athena_Commando_F_NeonCatSpy"],
+    "itemGrants": ["AthenaCharacter:CID_675_Athena_Commando_M_TheGoldenSkeleton"],
     "price": 2000
   },
   "featured2": {
