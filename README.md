@@ -1,12 +1,12 @@
-CID_751_Athena_Commando_F_NeonCatSpy, 1800
-CID_653_Athena_Commando_F_UglySweaterFrozen, 2500
-CID_039_Athena_Commando_F_Disco, 6000
+CID_751_Athena_Commando_F_NeonCatSpy, 2000
+CID_653_Athena_Commando_F_UglySweaterFrozen, 2000
+EID_TacoTimeDance, 800
 na
 na
 na
-CID_431_Athena_Commando_F_StormPilot, 800
+CID_431_Athena_Commando_F_StormPilot, 1200
 Pickaxe_ID_339_CODSquadHoodie, 800
-Pickaxe_ID_235_Lasagna, 800
-Wrap_127_FragmentedGlow, 1200
+Glider_ID_125_Bandolier, 1200
+EID_WaveDance, 500
 CID_497_Athena_Commando_F_WildWest, 1200
-na
+Wrap_132_BarbequeLarry, 500
