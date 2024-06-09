@@ -2,21 +2,22 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_027_Athena_Commando_F"
+            "AthenaCharacter:CID_703_Athena_Commando_M_Cyclone"
+            
         ],
-        "price": 1200
+        "price": 100
     },
     "daily2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_224_Butterfly"
+            "AthenaPickaxe:Pickaxe_ID_376_FNCS"
         ],
-        "price": 500
+        "price": 50
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_KEagle"
+            "AthenaBackpack:BID_468_Cyclone"
         ],
-        "price": 500
+        "price": 50
     },
     "daily4": {
         "itemGrants": [
