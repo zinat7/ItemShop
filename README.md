@@ -1,11 +1,11 @@
-CID_547_Athena_Commando_F_Meteorwoman, 2500
-EID_LetsBegin_Beyond, 2000
+ Pickaxe_ID_294_CandyCane, 50
+CID_703_Athena_Commando_M_Cyclone, 100
 na
 na
 na
 na
-CID_027_Athena_Commando_F, 1200
-Pickaxe_ID_224_Butterfly, 500
+BID_468_Cyclone, 50
+ Glider_ID_196_CycloneMale, 50
 EID_KEagle, 500
 EID_Everytime, 700
 CID_356_Athena_Commando_F_Farmer, 800
